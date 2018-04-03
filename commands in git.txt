@@ -1,0 +1,16 @@
+git init-->intializing git in local repository
+
+git clone githuburl(https://-----)--->for getting github repositary to our local repository
+
+git add filename-->for adding source code in git
+
+git add --a (or) git add --all--> for adding all files
+
+git rm --cached filename (or) git rm --cached all
+
+git commit -m ""hello"-->for saving code in versions with message
+
+git push origin master-->for send code to github repository
+
+
+
